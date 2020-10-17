@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+body{
+    background-image: url(https://lh3.googleusercontent.com/-C09tZOL_VbA/X4sZqWs4DbI/AAAAAAAAABs/3b-c0MhAPhsR7kuXkVcD34Dcq7-10rvcwCK8BGAsYHg/s0/2020-10-17.png);
+background-size: 100%;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: x-large;
+text-align: justify;
+color: greenyellow;
+}
+
+h2{
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+    color: lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: lightseagreen;
+}

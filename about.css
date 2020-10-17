@@ -1,0 +1,18 @@
+*{
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+img{
+    size: 50px;
+    font-size: 50px;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-image: url(https://lh3.googleusercontent.com/-7_WK-4v3Wjs/X4suR67qn8I/AAAAAAAAACo/tWtRYf6ZOOEsSqbaNizfDgYjJggl5PNMACK8BGAsYHg/s0/2020-10-17.png);
+background-size: 100%;
+color: white;
+}
